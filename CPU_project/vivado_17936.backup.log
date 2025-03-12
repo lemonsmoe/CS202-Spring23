@@ -1,0 +1,46 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon May 29 08:56:36 2023
+# Process ID: 17936
+# Current directory: C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9056 C:\Users\ainse\Desktop\onlydeleteuart_yes_0_05290439_final\refer_proj2.2.xpr
+# Log file: C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final/vivado.log
+# Journal file: C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final/refer_proj2.2.xpr
+INFO: [Project 1-313] Project file moved from 'D:/code/orgnization/findtheproblem/onlydeleteuart_yes_0_05290439_final' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/ainse/coe/prgmip32.coe', nor could it be found using path 'D:/code/orgnization/coe/prgmip32.coe'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/ainse/coe_new/prgmip32.coe', nor could it be found using path 'D:/code/orgnization/coe_new/prgmip32.coe'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/ainse/coe_new/dmem32.coe', nor could it be found using path 'D:/code/orgnization/coe_new/dmem32.coe'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/ainse/final_coe/1/dmem32.coe', nor could it be found using path 'D:/code/orgnization/final_coe/1/dmem32.coe'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/ainse/final_coe/1/prgmip32.coe', nor could it be found using path 'D:/code/orgnization/final_coe/1/prgmip32.coe'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/ainse/final_coe/2/prgmip32.coe', nor could it be found using path 'D:/code/orgnization/final_coe/2/prgmip32.coe'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/ainse/final_coe/2/dmem32.coe', nor could it be found using path 'D:/code/orgnization/final_coe/2/dmem32.coe'.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/ainse/coe/dmem32.coe', nor could it be found using path 'D:/code/orgnization/coe/dmem32.coe'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final/refer_proj2.2.ip_user_files/SEU_CSE_507_user_uart_bmpg_1.3'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.4/data/ip'.
+update_compile_order -fileset sources_1
+export_ip_user_files -of_objects  [get_files C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final/coe/dmem32.coe] -no_script -reset -force -quiet
+remove_files  C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final/coe/dmem32.coe
+remove_files  C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final/coe/dmem32.coe
+WARNING: [Vivado 12-818] No files matched 'C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final/coe/dmem32.coe'
+remove_files  C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final/coe/dmem32.coe
+WARNING: [Vivado 12-818] No files matched 'C:/Users/ainse/Desktop/onlydeleteuart_yes_0_05290439_final/coe/dmem32.coe'
+export_ip_user_files -of_objects  [get_files C:/Users/ainse/coe/dmem32.coe] -no_script -reset -force -quiet
+remove_files  C:/Users/ainse/coe/dmem32.coe
+remove_files  C:/Users/ainse/coe/dmem32.coe
+WARNING: [Vivado 12-818] No files matched 'C:/Users/ainse/coe/dmem32.coe'
+remove_files  C:/Users/ainse/coe/dmem32.coe
+WARNING: [Vivado 12-818] No files matched 'C:/Users/ainse/coe/dmem32.coe'
+export_ip_user_files -of_objects  [get_files C:/Users/ainse/coe_new/dmem32.coe] -no_script -reset -force -quiet
+remove_files  C:/Users/ainse/coe_new/dmem32.coe
+remove_files  C:/Users/ainse/coe_new/dmem32.coe
+WARNING: [Vivado 12-818] No files matched 'C:/Users/ainse/coe_new/dmem32.coe'
+export_ip_user_files -of_objects  [get_files C:/Users/ainse/final_coe/1/dmem32.coe] -no_script -reset -force -quiet
+remove_files  C:/Users/ainse/final_coe/1/dmem32.coe

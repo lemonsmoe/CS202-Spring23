@@ -1,0 +1,34 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../refer_proj2.2.srcs/sources_1/ip/cpuclkDiv" \
+"../../../../refer_proj2.2.srcs/sources_1/ip/RAM_1/sim/RAM.v" \
+"../../../../refer_proj2.2.srcs/sources_1/ip/prgrom/sim/prgrom.v" \
+"../../../../refer_proj2.2.srcs/sources_1/ip/uart_bmpg_0/uart_bmpg.v" \
+"../../../../refer_proj2.2.srcs/sources_1/ip/uart_bmpg_0/upg.v" \
+"../../../../refer_proj2.2.srcs/sources_1/ip/uart_bmpg_0/sim/uart_bmpg_0.v" \
+"../../../../refer_proj2.2.srcs/sources_1/ip/cpuclkDiv/cpuclkDiv_clk_wiz.v" \
+"../../../../refer_proj2.2.srcs/sources_1/ip/cpuclkDiv/cpuclkDiv.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/Ifetch.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/MemOrIO.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/control32.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/counter.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/cpu.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/debounce.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/debounceClkDiv.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/decode32.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/dmemory32.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/exciting.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/executs32.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/handleLED.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/key_board.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/programrom.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/register.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/segTrans.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/seg_ces.v" \
+"../../../../refer_proj2.2.srcs/sources_1/new/shift.v" \
+"../../../../refer_proj2.2.srcs/sim_1/new/test1_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,14 @@
+Breakpoint File Version 1.0
+47 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/seg_ces.v
+23 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+24 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+25 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+27 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+26 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+31 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+30 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+29 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+32 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+33 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+34 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v
+35 true D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v

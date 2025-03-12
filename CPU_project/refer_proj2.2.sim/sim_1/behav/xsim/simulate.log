@@ -1,0 +1,97 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module test1_tb.cpu_top.program.instmem.inst.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module test1_tb.cpu_top.mem.ram.inst.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Stopped at time : 0 fs : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 26
+Stopped at time : 215920 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/seg_ces.v" Line 47
+Stopped at time : 215930 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 215930 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 215930 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 215930 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 215930 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 215940 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 215940 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 215940 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 215940 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 215940 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 215950 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 215950 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 215950 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 215950 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 215950 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 215960 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 215960 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 215960 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 215960 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 215960 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 215970 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 215970 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 215970 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 215970 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 215970 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 215980 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 215980 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 215980 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 215980 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 215980 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 215990 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 215990 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 215990 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 215990 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 215990 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216 us : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216 us : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216 us : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216 us : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216 us : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216010 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216010 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216010 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216010 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216010 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216020 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216020 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216020 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216020 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216020 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216030 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216030 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216030 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216030 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216030 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216040 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216040 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216040 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216040 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216040 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216050 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216050 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216050 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216050 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216050 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216060 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216060 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216060 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216060 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216060 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216070 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216070 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216070 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216070 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216070 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216080 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216080 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216080 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216080 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216080 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216090 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at time : 216090 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 29
+Stopped at time : 216090 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 30
+Stopped at time : 216090 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 31
+Stopped at time : 216090 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 24
+Stopped at time : 216100 ns : File "D:/code/orgnization/cs202proj_1/refer_proj2.2/refer_proj2.2.srcs/sources_1/new/shift.v" Line 25
+Stopped at

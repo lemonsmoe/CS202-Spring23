@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon May 29 11:32:27 2023
+# Process ID: 13904
+# Current directory: C:/Users/ainse/Desktop/CPU_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent31304 C:\Users\ainse\Desktop\CPU_project\refer_proj2.2.xpr
+# Log file: C:/Users/ainse/Desktop/CPU_project/vivado.log
+# Journal file: C:/Users/ainse/Desktop/CPU_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ainse/Desktop/CPU_project/refer_proj2.2.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/ainse/Desktop/dmem32 .coe'.
+CRITICAL WARNING: [Project 1-19] Could not find the file 'C:/Users/ainse/Desktop/prgmip32 .coe'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/ainse/Desktop/CPU_project/refer_proj2.2.ip_user_files/SEU_CSE_507_user_uart_bmpg_1.3'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2017.4/data/ip'.
+update_compile_order -fileset sources_1
+export_ip_user_files -of_objects  [get_files C:/Users/ainse/Desktop/CPU_project/refer_proj2.2.srcs/sources_1/new/handleLED.v] -no_script -reset -force -quiet
+remove_files  C:/Users/ainse/Desktop/CPU_project/refer_proj2.2.srcs/sources_1/new/handleLED.v
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon May 29 11:33:52 2023...
